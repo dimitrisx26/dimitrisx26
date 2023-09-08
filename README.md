@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitrios Xynos</h1>
 <h3 align="center">A computer science graduate from Greece</h3>
 
-- 🌱 I’m currently learning **React, Node.js and a studying about Machine Learning/AI**
+- 🌱 I’m currently learning **React, Node.js and Machine Learning/AI**
 
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Python,SQL**
 
@@ -13,4 +13,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/dimitrios-xynos-aa80a0177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitrios-xynos-aa80a0177" height="30" width="40" /></a>
 </p>
-
