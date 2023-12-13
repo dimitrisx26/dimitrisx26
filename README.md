@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dxynos@outlook.com**
 
-- 📄 Know about my experiences [https://rxresu.me/r/W6GUDwS_](https://rxresu.me/r/W6GUDwS_)
+- 📄 Know about my experiences [Download my CV](https://drive.google.com/uc?export=download&id=1U1PRXHN7D7zvES9OS12zcB_zqtoQ4vNg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
