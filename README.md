@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimitrios Xynos</h1>
 <h3 align="center">A computer science graduate from Greece</h3>
 
-- 🌱 I’m currently learning **React, Node.js and Machine Learning/AI**
+- 🌱 I’m currently learning **Angular and Machine Learning/AI**
 
-- 💬 Ask me about **HTML,CSS, JavaScript, React, Python,SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, Angular, Python, SQL**
 
 - 📫 How to reach me **dxynos@outlook.com**
 
